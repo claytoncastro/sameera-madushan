@@ -4,7 +4,7 @@
 
 # Hello, World! <img src="https://github.com/sameera-madushan/sameera-madushan/blob/main/images/wave.gif" width="30px">
 * I am __Sameera Madushan Perera__ from __Sri Lanka__.
-* I'm a self taught software enthusiasts.
+* I'm a __self taught__ software enthusiasts.
 * I love to make tools that help people save time and increase their workflow. 
 
 # Github Statistics 📈
