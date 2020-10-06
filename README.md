@@ -19,6 +19,15 @@
   
 </details>
 
+<details>
+  <summary>Check out my recent posts on medium.</summary>
+  <br>
+  
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sameeramadushan/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sameeramadushan/0" alt="Recent Article 0"> 
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sameeramadushan/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sameeramadushan/1" alt="Recent Article 1"> 
+
+</details>
+
 
 # Github Statistics 📈
 ![My github stats](https://github-readme-stats.vercel.app/api?username=sameera-madushan&show_icons=true&theme=nord)
