@@ -25,12 +25,15 @@
   
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sameeramadushan/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sameeramadushan/0" alt="Recent Article 0"> 
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sameeramadushan/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sameeramadushan/1" alt="Recent Article 1"> 
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sameeramadushan/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sameeramadushan/2" alt="Recent Article 2"> 
 
 </details>
 
 
 # Github Statistics 📈
 ![My github stats](https://github-readme-stats.vercel.app/api?username=sameera-madushan&show_icons=true&theme=nord)
+
+In the meantime here is an hash for you to decode 👉 `2056193e4fc7c897b21603442169b8c7c8ed3ccf89752c5ffe4a9d28e528575d` 
 
 <hr>
 <p align="center">
