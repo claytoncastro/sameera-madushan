@@ -45,9 +45,4 @@ In the meantime here is a hash for you to decode 👉 `2056193e4fc7c897b21603442
     <a href="https://www.buymeacoffee.com/sameeramadushan" alt="Coffee"><img src="https://github.com/sameera-madushan/sameera-madushan/blob/main/images/socials/coffee.svg"></a>
     <a href="https://www.reddit.com/user/sameera__madushan_" alt="Reddit"><img src="https://github.com/sameera-madushan/sameera-madushan/blob/main/images/socials/reddit.svg"</a>
   </p>
-    <p align="center">
-    <a href="http://hits.dwyl.com/sameera-madushan/sameera-madushan">
-      <img align="center" src="http://hits.dwyl.com/sameera-madushan/sameera-madushan.svg">
-    </a>
-  </p>
 </p>
