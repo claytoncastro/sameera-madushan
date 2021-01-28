@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/sameera-madushan/sameera-madushan/blob/main/images/header.gif">
-</p>
 
 # Hello, World! <img src="https://github.com/sameera-madushan/sameera-madushan/blob/main/images/wave.gif" width="30px">
 * I am __Sameera Madushan Perera__ from __Sri Lanka__.
