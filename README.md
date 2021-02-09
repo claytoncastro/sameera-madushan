@@ -10,7 +10,7 @@
 
   - I’m currently learning **[Flutter](https://flutter.dev)**.
   - I have an instagram account known as **[Tales From Right Brain](https://www.instagram.com/tales_from_right_brain)** where i share my image manipulation artwork.
-  - I love Ubuntu. But i'm still using windows. 
+  - I love Ubuntu. But i'm still using windows. LoL 😅
   - I'm confident in python, javascript, HTML, and CSS.
   - I like to play ctf challenges in my spare time.
   
